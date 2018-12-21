@@ -1,5 +1,6 @@
 {
     "name": "Puget Sound Content",
     "abbreviation": "PSC",
-    "version": 0.1
+    "version": 0.1,
+    "organizationName": "Jaidan"
 }
